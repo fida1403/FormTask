@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Form and Table Example</h1>
+      <h1>Form Task</h1>
       <Form onSubmit={handleFormSubmit} />
       <Table rows={rows} />
     </div>
